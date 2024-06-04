@@ -1,3 +1,6 @@
+#Para que haya herencia es necesario que la clase derivada cumpla la relación de es un/a de la clase base.
+#La clase `Derivada` heredará TODOS los atributos y métodos de la clase `Base`.
+
 #Definicion de la clase base
 class Animal:
     def __init__(self, nombre, edad):
