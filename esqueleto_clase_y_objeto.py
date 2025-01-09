@@ -13,7 +13,7 @@ class MiClase:
 miObjeto1=miClase("valor_atributo1_miclase", "valor_atributo2_miclase")
 
 print(miObjeto1.atributo1_miclase)
-print(miObjeto1.atributo_miclase)
+print(miObjeto1.atributo2_miclase)
 
 miObjeto1.metodo1_miclase()
 miObjeto1.metodo2_miclase()
