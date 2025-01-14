@@ -19,7 +19,8 @@ print(dispositivo_1.nombre)
 print(dispositivo_1.estado)
 print(dispositivo_2.nombre)
 print(dispositivo_2.estado)
-print(dispositivo_3.__str__())
+print(dispositivo_3)
+#print(dispositivo_3.__str__()) es una alternativa a la linea anterior pero sin uso
 
 
         
